@@ -1,5 +1,5 @@
-<!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# [Previsão de Volatilidade com um modelo híbrido GRU-EGarch](https://github.com/DanielRZO/volatility_forecast)
+
+# Previsão de Volatilidade com um modelo híbrido GRU-EGarch
 
 #### Aluno: [Daniel Ryba Zanardini de Oliveira](https://github.com/DanielRZO)
 #### Orientadores: [Drª Manoela Kohler](https://github.com/manoelakohler) e [Dr Leonardo Alfredo Forero Mendoza](https://github.com/leofome8)
